@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Esta disciplina é parte do curso Técnico em Desenvolvimento de Sistemas (SENAC).</p>
+<p align="left">Esta disciplina é parte do curso Técnico em Desenvolvimento de Sistemas (SENAC).</p><br><br><p>🇬🇧 This subject is part of the Technical Program in Systems Development course (SENAC).</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🪐 Language used</h3>
+<h3 align="left">🪐 Linguagem || Language </h3>
 
 ###
 
